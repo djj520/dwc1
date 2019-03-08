@@ -2,3 +2,4 @@ dwc1/ios/debug/2
 dwc1/ios/release/100
 dwc1/android/release/159
 dwc1/android/debug/1
+dwc1_gamekind/android/release/41
