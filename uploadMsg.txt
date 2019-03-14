@@ -4,7 +4,7 @@ dwc1/android/release/169
 dwc1/android/debug/1
 dwc1_gamekind/android/release/41
 dwc/ios/debug/10066
-dwc/ios/release/46
+dwc/ios/release/47
 dwc/android/release/56
 dwc/android/debug/10057
 dwc_gamekind/android/release/9
